@@ -1,5 +1,6 @@
 <h1>Hi there</h1>
-<p>My name is Olivia and I'm a student in a computer science class at<a href="http://mths.ca">St. Mother Teresa HS</a>, Canada.</p
+<p>My name is Olivia and I'm a student in a computer science class at <a href="http://mths.ca">St. Mother Teresa HS</a>, Canada.
+</p
 
 <h2>Programming Languages</h2>
 <p>
@@ -10,13 +11,8 @@
 
 <h2>Operating Systems</h2>
 <p>  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
+  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></p>
 
 ## 🔧 Tools
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-  I'm a student in a computer science class at
