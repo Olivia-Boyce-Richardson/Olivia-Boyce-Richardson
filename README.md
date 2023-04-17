@@ -1,4 +1,5 @@
 <h1>Hi there</h1>
+<p>My name is Olivia and I'm a student in a computer science class at <a href="http://mths.ca">St. Mother Teresa HS</a> in Canada.</p
 
 <h2>Programming Languages</h2>
 <p>
